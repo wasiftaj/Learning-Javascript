@@ -6,7 +6,7 @@ myString;
 myString.length;
 myString.toUpperCase();
 
-"This is my string".width;
+"This is my string".length;
 
 let declaration = `This I say to you: "good morning". Huzzah!`;
 declaration;
