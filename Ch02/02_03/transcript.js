@@ -4,7 +4,7 @@
 var myString = "This is my string. Leave it alone";
 myString;
 myString.length;
-myString.toUpperCase();
+myString.toUpperCase()
 
 "This is my string".length;
 
